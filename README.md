@@ -2,6 +2,8 @@
 
 _Copy the zero width space to your clipboard_
 
+**Go to [copy file](COPY.txt)**
+
 ---
 
 ## What is ZWSP?
